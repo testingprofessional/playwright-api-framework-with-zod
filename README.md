@@ -62,7 +62,6 @@ tests/
 ### Setup
 
 ```bash
-git clone https://github.com/KKoygun/playwright-api-framework
 
 cd playwright-api-framework
 npm install
